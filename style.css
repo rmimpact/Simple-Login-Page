@@ -1,0 +1,15 @@
+.vbox {
+    -fx-padding: 10;
+}
+
+.scene {
+    -fx-background-color: #e82929;
+    background-color: #e82929;
+    background: #e82929;
+    -fx-background: #e82929;
+}
+
+.root {
+    -fx-background-color: #ffffff;
+    -fx-padding: 10;
+}
